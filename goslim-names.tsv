@@ -1,0 +1,136 @@
+go_id	name
+GO:0000228	nuclear chromosome
+GO:0000278	mitotic cell cycle
+GO:0000910	cytokinesis
+GO:0001618	virus receptor activity
+GO:0002181	cytoplasmic translation
+GO:0002376	immune system process
+GO:0003012	muscle system process
+GO:0003013	circulatory system process
+GO:0003014	renal system process
+GO:0003016	respiratory system process
+GO:0003677	DNA binding
+GO:0003723	RNA binding
+GO:0003774	cytoskeletal motor activity
+GO:0003824	catalytic activity
+GO:0003924	GTPase activity
+GO:0005198	structural molecule activity
+GO:0005215	transporter activity
+GO:0005576	extracellular region
+GO:0005615	extracellular space
+GO:0005634	nucleus
+GO:0005635	nuclear envelope
+GO:0005654	nucleoplasm
+GO:0005694	chromosome
+GO:0005730	nucleolus
+GO:0005739	mitochondrion
+GO:0005764	lysosome
+GO:0005768	endosome
+GO:0005773	vacuole
+GO:0005777	peroxisome
+GO:0005783	endoplasmic reticulum
+GO:0005794	Golgi apparatus
+GO:0005811	lipid droplet
+GO:0005815	microtubule organizing center
+GO:0005829	cytosol
+GO:0005840	ribosome
+GO:0005856	cytoskeleton
+GO:0005886	plasma membrane
+GO:0005929	cilium
+GO:0005975	carbohydrate metabolic process
+GO:0006091	generation of precursor metabolites and energy
+GO:0006260	DNA replication
+GO:0006281	DNA repair
+GO:0006310	DNA recombination
+GO:0006325	chromatin organization
+GO:0006351	DNA-templated transcription
+GO:0006355	regulation of DNA-templated transcription
+GO:0006399	tRNA metabolic process
+GO:0006457	protein folding
+GO:0006486	protein glycosylation
+GO:0006520	amino acid metabolic process
+GO:0006575	modified amino acid metabolic process
+GO:0006629	lipid metabolic process
+GO:0006766	vitamin metabolic process
+GO:0006790	sulfur compound metabolic process
+GO:0006886	intracellular protein transport
+GO:0006913	nucleocytoplasmic transport
+GO:0006914	autophagy
+GO:0006954	inflammatory response
+GO:0007005	mitochondrion organization
+GO:0007010	cytoskeleton organization
+GO:0007018	microtubule-based movement
+GO:0007031	peroxisome organization
+GO:0007040	lysosome organization
+GO:0007059	chromosome segregation
+GO:0007155	cell adhesion
+GO:0007163	establishment or maintenance of cell polarity
+GO:0008092	cytoskeletal protein binding
+GO:0008289	lipid binding
+GO:0009975	cyclase activity
+GO:0012501	programmed cell death
+GO:0016071	mRNA metabolic process
+GO:0016073	snRNA metabolic process
+GO:0016192	vesicle-mediated transport
+GO:0016209	antioxidant activity
+GO:0016491	oxidoreductase activity
+GO:0016740	transferase activity
+GO:0016787	hydrolase activity
+GO:0016829	lyase activity
+GO:0016853	isomerase activity
+GO:0016874	ligase activity
+GO:0022414	reproductive process
+GO:0022600	digestive system process
+GO:0023052	signaling
+GO:0030154	cell differentiation
+GO:0030163	protein catabolic process
+GO:0030198	extracellular matrix organization
+GO:0030312	external encapsulating structure
+GO:0031012	extracellular matrix
+GO:0031047	regulatory ncRNA-mediated gene silencing
+GO:0031386	protein tag activity
+GO:0031410	cytoplasmic vesicle
+GO:0032200	telomere organization
+GO:0034330	cell junction organization
+GO:0036211	protein modification process
+GO:0038024	cargo receptor activity
+GO:0042060	wound healing
+GO:0042254	ribosome biogenesis
+GO:0042393	histone binding
+GO:0043226	organelle
+GO:0044183	protein folding chaperone
+GO:0044782	cilium organization
+GO:0045182	translation regulator activity
+GO:0048018	receptor ligand activity
+GO:0048856	anatomical structure development
+GO:0048870	cell motility
+GO:0050877	nervous system process
+GO:0050886	endocrine process
+GO:0051604	protein maturation
+GO:0055065	obsolete metal ion homeostasis
+GO:0055085	transmembrane transport
+GO:0055086	nucleobase-containing small molecule metabolic process
+GO:0060089	molecular transducer activity
+GO:0060090	molecular adaptor activity
+GO:0061024	membrane organization
+GO:0065003	protein-containing complex assembly
+GO:0071941	nitrogen cycle metabolic process
+GO:0072659	protein localization to plasma membrane
+GO:0098542	defense response to other organism
+GO:0098631	cell adhesion mediator activity
+GO:0098754	detoxification
+GO:0098772	molecular function regulator activity
+GO:0120274	virus coreceptor activity
+GO:0140013	meiotic nuclear division
+GO:0140014	mitotic nuclear division
+GO:0140053	mitochondrial gene expression
+GO:0140096	catalytic activity, acting on a protein
+GO:0140097	catalytic activity, acting on DNA
+GO:0140098	catalytic activity, acting on RNA
+GO:0140104	molecular carrier activity
+GO:0140110	transcription regulator activity
+GO:0140223	general transcription initiation factor activity
+GO:0140299	molecular sensor activity
+GO:0140313	molecular sequestering activity
+GO:0140657	ATP-dependent activity
+GO:1901135	carbohydrate derivative metabolic process
